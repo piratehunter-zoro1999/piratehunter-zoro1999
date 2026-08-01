@@ -1,87 +1,79 @@
 <h1 align="center">Hi 👋, I'm Kushpinder Singh</h1>
 
 <h3 align="center">
-💻 Backend Developer • ☕ Java Enthusiast • 🚲 Building VELO • 🧠 DSA Learner
+☕ Java Backend Developer • 🚲 Building VELO • 🧠 DSA Enthusiast
 </h3>
 
 <p align="center">
-Building scalable backend systems with Java & Spring Boot while exploring AI and System Design.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=piratehunter-zoro1999&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+Building scalable backend applications with Java & Spring Boot while exploring AI and System Design.
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk">
 <img src="https://img.shields.io/badge/Spring_Boot-Backend-success?style=for-the-badge&logo=springboot">
 <img src="https://img.shields.io/badge/C++-DSA-blue?style=for-the-badge&logo=cplusplus">
-<img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI-Explorer-purple?style=for-the-badge">
 </p>
 
 ---
 
 # 🚀 About Me
 
-✨ Computer Science Engineering Student
-
-☕ Passionate about Backend Development
-
-🚲 Currently building **VELO** — Smart Campus Mobility Platform
-
-📚 Learning **System Design**, **Microservices**, and **Cloud**
-
-🔐 Building secure REST APIs using Spring Security & JWT
-
-🧩 Regularly solving Data Structures & Algorithms
-
-🎯 Looking for Backend & Software Engineering Internship opportunities
+- 🎓 B.Tech Computer Science Engineering Student
+- ☕ Passionate about Backend Development with Java & Spring Boot
+- 🚲 Currently building **VELO**, a Smart Campus Mobility Platform
+- 🔐 Building secure REST APIs using Spring Security & JWT
+- 📚 Practicing Data Structures & Algorithms in C++
+- 🤖 Exploring AI-powered applications and automation
+- 🌱 Currently learning System Design, Docker, Redis & AWS
 
 ---
 
-# 🌟 Featured Projects
+# 🚲 VELO (Flagship Project)
 
-## 🚲 VELO — Smart Campus Mobility Platform
+> **Currently in Active Development**
 
-A production-ready campus bicycle rental platform.
+VELO is a campus mobility platform being built to simplify bicycle rentals inside universities. The goal is to deliver a production-ready application with secure authentication, booking, payments, administration, and AI-powered features.
 
-### Features
+## 🚧 Current Progress
 
-✅ Google Authentication
+✅ Authentication & Authorization
 
 ✅ Student Verification
 
-✅ Bicycle Management
-
-✅ Booking Management
-
-✅ QR Code Booking
-
-✅ Ride Timer
-
-✅ Razorpay Integration
-
-✅ Rider Dashboard
+✅ Bicycle Management Module
 
 ✅ Admin Dashboard
 
-✅ Ride History
+🚧 Booking Module
 
-✅ Feedback System
+🚧 Ride Management
+
+🚧 Payment Integration
+
+🚧 QR Code Booking
+
+🚧 Rider Dashboard
+
+### 🔮 Planned Features
+
+- 🤖 AI Assistant
+- 📊 Smart Analytics
+- 💳 Razorpay Integration
+- ☁️ Docker Deployment
+- ⚡ Redis Caching
+- 🔄 CI/CD
+- 📈 Monitoring & Logging
 
 **Tech Stack**
 
-`Java` `Spring Boot` `Spring Security` `JWT`
-`Hibernate`
-`JPA`
-`MySQL`
-`React`
+`Java` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `MySQL` `React`
 
 ---
 
-## 🎓 Student Management System
+# 🎓 Student Management System
 
-Enterprise-style backend application built with Spring Boot.
+A production-style backend application built to master Spring Boot fundamentals.
 
 ### Features
 
@@ -109,62 +101,45 @@ Enterprise-style backend application built with Spring Boot.
 
 **Tech Stack**
 
-`Java`
-`Spring Boot`
-`Spring Security`
-`JPA`
-`Hibernate`
-`MySQL`
+`Java` `Spring Boot` `Spring Security` `JPA` `Hibernate` `MySQL`
 
 ---
 
-## 🤖 Project A1
+# 🤖 Project A1
 
-Personal AI Assistant for productivity.
+Personal AI Assistant focused on productivity and automation.
 
 ### Current Features
 
-✨ Task Manager
-
-✨ Scheduling
-
-✨ Productivity Automation
+- 📝 Task Management
+- 📅 Scheduling
+- ⚡ Productivity Automation
 
 ### Roadmap
 
-🧠 AI Reasoning
-
-💬 Voice Commands
-
-🗂️ Memory
-
-🤝 Personal Assistant
+- 🧠 AI Reasoning
+- 🗂️ Memory
+- 🎙️ Voice Commands
+- 🤝 Personal Assistant
 
 ---
 
-## 📘 DSA Diaries
+# 📘 DSA Diaries
 
-Collection of Data Structures & Algorithms solutions in C++.
+Repository containing my Data Structures & Algorithms journey in C++.
 
 ### Topics
 
-📌 Arrays
-
-📌 Strings
-
-📌 Linked Lists
-
-📌 Trees
-
-📌 Graphs
-
-📌 Dynamic Programming
-
-📌 Greedy
-
-📌 Binary Search
-
-📌 Backtracking
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Graphs
+- Dynamic Programming
+- Greedy
+- Binary Search
+- Backtracking
 
 ---
 
@@ -182,15 +157,15 @@ Collection of Data Structures & Algorithms solutions in C++.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=piratehunter-zoro1999&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=piratehunter-zoro1999&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=piratehunter-zoro1999&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=piratehunter-zoro1999&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratehunter-zoro1999&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratehunter-zoro1999&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -206,39 +181,33 @@ Collection of Data Structures & Algorithms solutions in C++.
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Learning
 
-☁️ System Design
-
-🐳 Docker
-
-⚡ Redis
-
-☁️ AWS
-
-🏗️ Microservices
-
-🧹 Clean Architecture
-
-🎨 Design Patterns
+- 🏗️ System Design
+- 🐳 Docker
+- ⚡ Redis
+- ☁️ AWS
+- 🧩 Design Patterns
+- 🏛️ Clean Architecture
+- 🔍 Software Scalability
 
 ---
 
 # 📌 Featured Repositories
 
-🚲 VELO
+⭐ VELO
 
-🎓 Student Management System (Spring)
+⭐ Student Management System (Spring Boot)
 
-🖥️ Student Management System (Console)
+⭐ Student Management System (Console)
 
-🤖 Project A1
+⭐ Project A1
 
-📘 DSA Diaries
+⭐ DSA Diaries
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <p align="center">
 
@@ -248,7 +217,7 @@ Collection of Data Structures & Algorithms solutions in C++.
 
 <!-- Add your LinkedIn below -->
 <!--
-<a href="YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 -->
@@ -257,8 +226,8 @@ Collection of Data Structures & Algorithms solutions in C++.
 
 ---
 
-<h2 align="center">
+<div align="center">
 
-💡 *"Great software isn't just written—it is designed, tested, and continuously improved."*
+### 🚀 "Building today. Learning every day. Shipping better software tomorrow."
 
-</h2>
+</div>
