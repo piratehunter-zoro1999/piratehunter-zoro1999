@@ -1,203 +1,283 @@
-
-<h1 align="center">Hi 👋, I'm Kushpinder Singh</h1>
+<h1 align="center">Kushpinder Singh</h1>
 
 <h3 align="center">
-Backend Developer • Java & Spring Boot • DSA Enthusiast • Building Scalable Applications 🚀
+Backend Developer • Java • Spring Boot • System Design Learner
 </h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=piratehunter-zoro1999&label=Profile%20Views&color=0e75b6&style=flat" />
+Building scalable backend applications, solving DSA, and turning ideas into products.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=piratehunter-zoro1999&label=Profile%20Views&color=4C8BF5&style=flat-square"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## ◈ About Me
 
-🎓 Computer Science Engineering Student
+◉ B.Tech Computer Science Student
 
-💻 Passionate about Backend Development and Software Engineering
+◉ Backend Developer passionate about Java & Spring Boot
 
-🚀 Currently building **VELO** — A Smart Campus Mobility Platform
+◉ Building **VELO** — Smart Campus Mobility Platform
 
-🧠 Solving Data Structures & Algorithms in C++
+◉ Developing secure REST APIs with Spring Security & JWT
 
-🔐 Learning Spring Security, JWT Authentication & System Design
+◉ Practicing Data Structures & Algorithms in C++
 
-🤖 Exploring AI Automation and Intelligent Applications
+◉ Exploring AI Automation and Intelligent Systems
 
-🎯 Looking for Backend / Software Engineering Internship Opportunities
+◉ Currently preparing for Software Engineering & Backend roles
 
 ---
 
-# 🚀 Current Projects
+## ◈ Featured Projects
 
-### 🚲 VELO — Smart Campus Mobility Platform
+### ⟡ VELO — Smart Campus Mobility Platform
 
-A full-stack campus mobility solution designed to simplify bicycle rentals inside universities.
+A production-oriented campus mobility platform designed to digitize bicycle rentals inside universities.
 
-### Features
+**Highlights**
 
-- 🔐 Google Authentication
-- 👤 Student Verification
-- 🚲 Bicycle Management
-- 📅 Booking System
-- ⏱ Ride Timer
-- 💳 Razorpay Payments
-- 📊 Admin Dashboard
-- 👥 Rider Dashboard
-- ⭐ Feedback System
-- 📜 Ride History
-- 📱 QR Code Booking
+• Google Authentication
+
+• Student Verification
+
+• Bicycle Management
+
+• Booking Module
+
+• QR Code Booking
+
+• Ride Timer
+
+• Razorpay Integration
+
+• Rider Dashboard
+
+• Admin Dashboard
+
+• Ride History
+
+• Feedback System
 
 **Tech Stack**
 
-Java • Spring Boot • Spring Security • JWT • JPA • MySQL • React • REST APIs
+`Java` `Spring Boot` `Spring Security` `JWT` `JPA` `Hibernate` `MySQL` `React`
 
 ---
 
-### 🤖 Project A1
+### ⟡ Student Management System
 
-Personal AI Assistant focused on productivity and automation.
+A complete backend application built to learn enterprise software development with Spring Boot.
 
-Current Modules
+**Highlights**
 
-- Task Manager
-- Scheduling
-- Productivity Automation
+• Layered Architecture
 
-Future Roadmap
+• REST APIs
 
-- AI Reasoning
-- Memory
-- Voice Commands
-- Personal Assistant
+• CRUD Operations
+
+• DTO Pattern
+
+• Validation
+
+• Global Exception Handling
+
+• Spring Security
+
+• JWT Authentication
+
+• Role-Based Authorization
+
+• Swagger/OpenAPI Documentation
+
+• MySQL Integration
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Spring Security` `JPA` `Hibernate` `MySQL`
 
 ---
 
-# 💻 Tech Stack
+### ⟡ Project A1 — AI Assistant
+
+A personal AI productivity assistant built from scratch.
+
+**Current Features**
+
+• Task Manager
+
+• Scheduling
+
+• Productivity Automation
+
+**Upcoming**
+
+• AI Reasoning
+
+• Memory
+
+• Voice Commands
+
+• Personal Assistant
+
+---
+
+### ⟡ DSA Diaries
+
+A collection of Data Structures & Algorithms solutions and notes in C++.
+
+Topics Covered
+
+• Arrays
+
+• Strings
+
+• Linked Lists
+
+• Stacks & Queues
+
+• Trees
+
+• Graphs
+
+• Dynamic Programming
+
+• Greedy
+
+• Binary Search
+
+• Backtracking
+
+---
+
+## ◈ Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
+</p>
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+<p>
 
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
 
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
+</p>
 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-
----
+Spring Boot • Spring Security • Spring Data JPA • Hibernate • JWT • REST APIs
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=react"/>
+
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+<p>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=piratehunter-zoro1999&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=piratehunter-zoro1999&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratehunter-zoro1999&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## ◈ GitHub Analytics
 
 <p align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piratehunter-zoro1999&theme=tokyo-night)](https://github.com/piratehunter-zoro1999)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=piratehunter-zoro1999&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=piratehunter-zoro1999&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratehunter-zoro1999&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## ◈ Contribution Graph
 
-- System Design
-- Microservices
-- Docker
-- Redis
-- AWS
-- Clean Architecture
-- Design Patterns
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piratehunter-zoro1999&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-# 📌 Featured Repositories
+## ◈ Currently Learning
 
-⭐ VELO
+◈ System Design
 
-⭐ Student Management System (Spring Boot)
+◈ Microservices
 
-⭐ Student Management System (Console)
+◈ Docker
 
-⭐ DSA Diaries
+◈ Redis
 
-⭐ Project A1 (AI Assistant)
+◈ AWS
+
+◈ Design Patterns
+
+◈ Clean Architecture
 
 ---
 
-# 📫 Connect With Me
+## ◈ Featured Repositories
 
-GitHub
+◉ VELO — Smart Campus Mobility Platform
 
+◉ Student Management System (Spring Boot)
+
+◉ Student Management System (Console)
+
+◉ Project A1 — AI Assistant
+
+◉ DSA Diaries
+
+---
+
+## ◈ GitHub
+
+**Username**
+
+```text
+piratehunter-zoro1999
+```
+
+**Profile**
+
+```text
 https://github.com/piratehunter-zoro1999
-
-LinkedIn
-
-(Add your LinkedIn profile)
+```
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-"First, solve the problem. Then, write the code."
+### 「 Keep Building. Keep Learning. Keep Shipping. 」
 
-</h3>
+</div>
