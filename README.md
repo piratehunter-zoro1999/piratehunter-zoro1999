@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Kushpinder Singh</h1>
+<div align="center">
 
-<h3 align="center">
-☕ Java Backend Developer • 🚲 Building VELO • 🤖 Exploring AI Agents • 🧠 DSA
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I'm+Kushpinder+Singh;Java+Backend+Developer+%E2%98%95;Spring+Boot+%7C+Security+%7C+JPA+%7C+MySQL;REST+APIs+%7C+JWT+%7C+Docker+%7C+AWS+%7C+Redis;System+Design+%7C+Scalable+Backend+Architectures;AI+Agents+%7C+LLMs+%7C+RAG+%7C+Tool+Calling;Python+%7C+AI+Automation+%7C+Local+LLMs;C%2B%2B+%7C+DSA+%7C+LeetCode;VELO+%7C+A1+%7C+Student+Management+System;Building+Systems.+Learning+AI.+Solving+Problems.%F0%9F%9A%80" alt="Typing SVG"/>
 
-<p align="center">
-Building backend systems with Java & Spring Boot, exploring scalable architectures,
-AI-powered automation, and intelligent applications.
+<br>
+
+<p>
+Backend Development • AI Engineering • System Design • DSA
 </p>
+
+</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=openjdk">
@@ -391,15 +392,6 @@ C++ DSA & LeetCode Practice
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piratehunter-zoro1999&theme=react-dark"/>
-
-</p>
-
----
 
 # 🌐 Connect
 
@@ -409,17 +401,21 @@ C++ DSA & LeetCode Practice
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<!-- Add your LinkedIn below -->
 
-<!--
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kushpinder-singh-jasrotia-3101a0342/?isSelfProfile=true">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
--->
+
+<a href="https://x.com/Kushpinder42021">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="https://dev.to/kushpinder_singh_31fbc9de">
+<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+</a>
 
 </p>
 
----
 
 <div align="center">
 
